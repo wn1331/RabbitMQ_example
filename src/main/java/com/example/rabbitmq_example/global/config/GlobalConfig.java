@@ -1,4 +1,4 @@
-package com.example.rabbitmq_example.config;
+package com.example.rabbitmq_example.global.config;
 
 import org.springframework.context.annotation.Configuration;
 

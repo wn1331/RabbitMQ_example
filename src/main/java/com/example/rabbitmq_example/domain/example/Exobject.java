@@ -1,4 +1,4 @@
-package com.example.rabbitmq_example.domain;
+package com.example.rabbitmq_example.domain.example;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;

@@ -1,6 +1,6 @@
 package com.example.rabbitmq_example.api.controller;
 
-import com.example.rabbitmq_example.domain.Exobject;
+import com.example.rabbitmq_example.domain.example.Exobject;
 import com.example.rabbitmq_example.infrastructure.rabbitMQ.ExampleMessageProducer;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;

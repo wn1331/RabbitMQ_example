@@ -1,6 +1,6 @@
 package com.example.rabbitmq_example.infrastructure.rabbitMQ;
 
-import com.example.rabbitmq_example.domain.Exobject;
+import com.example.rabbitmq_example.domain.example.Exobject;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Component;
 
